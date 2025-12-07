@@ -36,11 +36,12 @@ L’objectif est de permettre aux employés d’accéder facilement au bot depui
 ---
 
 ## 📁 Structure du projet
-
+```tree
 /Pappagallo
 │── pappagallo.py # Application Streamlit
 │── requirements.txt # Dépendances Python
 │── README.md # Documentation
+```
 
 ---
 
